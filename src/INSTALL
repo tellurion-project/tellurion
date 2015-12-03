@@ -1,0 +1,9 @@
+Building Quartz
+
+See doc/readme-qt.rst for instructions on building Quartz QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Quartz.
+
+See doc/build-*.txt for instructions on building Quartzd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Quartz.
